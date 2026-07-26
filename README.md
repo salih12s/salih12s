@@ -47,5 +47,6 @@ My work focuses on operational platforms, CRM systems, inventory and sales workf
 
 - [LinkedIn](https://www.linkedin.com/in/huseyin-salih-saydam/)
 - [GitHub](https://github.com/salih12s)
+- [Email](salihsaydam81@hotmail.com)
 
 Open to full-time junior **Full-Stack Developer** and **Software Developer** opportunities, including remote and international teams.
