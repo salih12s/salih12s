@@ -1,16 +1,17 @@
 # Hüseyin Salih Saydam
 
-### Computer Engineer · Full-Stack Developer · Building Production-Ready Web Applications
+### Computer Engineer · Full-Stack Developer · AI-Augmented Product Development
 
-I build full-stack web applications that turn real business operations into clear, maintainable digital products.
+I build production-oriented full-stack applications that turn real business operations into clear, maintainable digital products.
 
-My work focuses on operational platforms, CRM systems, inventory and sales workflows, reporting, authentication and authorization, REST APIs, database design, and cloud deployment.
+My work focuses on business operations software, vertical ERP systems, ordering and commerce platforms, REST APIs, relational data modeling, authentication and authorization, reporting, and cloud deployment. I use Codex, Claude, and ChatGPT throughout research, architecture, implementation, debugging, testing, and documentation while retaining ownership of technical decisions and final quality.
 
-## Tech Stack
+## Core Stack
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -21,26 +22,30 @@ My work focuses on operational platforms, CRM systems, inventory and sales workf
 
 ## Selected Work
 
-| Project | Product | Stack | Links |
-|---|---|---|---|
-| **Kaynar Motor** | Full-stack CRM and public showroom for motorcycle service, sales, inventory, e-commerce, investor profit sharing, debt tracking, and reporting. | React, Node.js, Express, PostgreSQL | [Live](https://kaynarmotor.com.tr) · [Repository](https://github.com/salih12s/KaynarMotorCRM) |
-| **Demirkan Motorlu Araçlar** | Service, sales, inventory, customer, financial reporting, and public product platform used by a real business. | React, Material UI, Node.js, Express, PostgreSQL | [Live](https://demirkanmotorluaraclar.com) · [Repository](https://github.com/salih12s/MotorServisiCrm) |
-| **UGA Burger** | Production restaurant ordering and operations platform with mobile menu, online and table orders, reporting, integrations, and Electron-based receipt printing. | React, Material UI, Node.js, Express, Sequelize, PostgreSQL | [Live](https://ugaburger.com) · [Repository](https://github.com/salih12s/UgaBurger) |
-| **ProjeCRM** | Technical service, workshop, dealer, and field-operations platform with real-time updates and PDF/Excel reporting. | React, TypeScript, Node.js, Express, PostgreSQL, Socket.IO | [Repository](https://github.com/salih12s/projecrm) |
+| Project | Product Scope | Links |
+|---|---|---|
+| **Kaynar Motor — Dealership ERP & Digital Showroom** | Service work orders, used-vehicle sales, parts and accessory inventory, profitability, investor profit sharing, debt tracking, reporting, barcode workflows, and a public showroom. | [Live](https://kaynarmotor.com.tr) · [Repository](https://github.com/salih12s/KaynarMotorCRM) |
+| **Demirkan Motorlu Araçlar — Automotive Service & Sales ERP** | Production platform integrating service, motorcycle sales, inventory, customers, expenses, permissions, audit logs, financial reporting, and a public product catalog. | [Live](https://demirkanmotorluaraclar.com) · [Repository](https://github.com/salih12s/MotorServisiCrm) |
+| **UGA Burger — Restaurant Ordering & Operations Platform** | Mobile menu, configurable products, online and table orders, payment and promotion workflows, live order management, reporting, and integrations. | [Live](https://ugaburger.com) · [Repository](https://github.com/salih12s/UgaBurger) |
+| **Technical Service & Field Operations Platform** | Customer and device intake, service-status tracking, workshop workflows, field photo records, role-based workspaces, real-time updates, and PDF/Excel output. | [Repository](https://github.com/salih12s/projecrm) |
+| **NOVA ATELIER — E-Commerce Management Platform** | Premium jewelry storefront, customer accounts, role-based administration, catalog and inventory workflows, supplier XML processing, audit rules, and automated tests. | [Repository](https://github.com/salih12s/nova-atelier-commerce) |
+| **AITrader — Stock Analysis & Trading Education Platform** | Market education, order and chart laboratories, technical indicators, risk scenarios, deterministic analysis, and delayed market-data workflows. | [Repository](https://github.com/salih12s/AITrader) |
 
-## What I Work On
+## Engineering Focus
 
-- End-to-end CRM and operational platforms
+- End-to-end product development across frontend, backend, database, testing, and deployment
+- Business operations modeling for service, sales, inventory, orders, reporting, and role-based workflows
+- REST API design, JWT authentication, authorization, auditability, and relational data modeling
 - Responsive public websites and protected administration panels
-- REST APIs, authentication, authorization, and role-based access
-- PostgreSQL data modeling, reporting, inventory, and financial workflows
-- Media management, PDF/Excel output, and cloud deployment
+- Real-time interfaces, server-side pagination, PDF/Excel output, and operational reporting
+- AI-assisted engineering with Codex, Claude, and ChatGPT without outsourcing technical ownership
 
 ## Experience
 
-- **Frontend Developer Intern — CODLEAN**
-  Built interface features for a support portal with React, TypeScript, Redux Toolkit, React Router, and Material UI.
-- **Information Technology Intern — Volta Motor**
+- **Frontend Developer Intern — CODLEAN**  
+  Contributed to a support portal using React, TypeScript, Redux Toolkit, React Router, and Material UI.
+
+- **Information Technology Intern — Volta Motor**  
   Worked with IP camera systems, networking, PoE, NVRs, server rooms, and factory IT operations.
 
 ## Contact
