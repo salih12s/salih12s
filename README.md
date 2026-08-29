@@ -27,9 +27,6 @@ My work focuses on business operations software, vertical ERP systems, ordering 
 | **Kaynar Motor — Dealership ERP & Digital Showroom** | Service work orders, used-vehicle sales, parts and accessory inventory, profitability, investor profit sharing, debt tracking, reporting, barcode workflows, and a public showroom. | [Live](https://kaynarmotor.com.tr) · [Repository](https://github.com/salih12s/KaynarMotorCRM) |
 | **Demirkan Motorlu Araçlar — Automotive Service & Sales ERP** | Production platform integrating service, motorcycle sales, inventory, customers, expenses, permissions, audit logs, financial reporting, and a public product catalog. | [Live](https://demirkanmotorluaraclar.com) · [Repository](https://github.com/salih12s/MotorServisiCrm) |
 | **UGA Burger — Restaurant Ordering & Operations Platform** | Mobile menu, configurable products, online and table orders, payment and promotion workflows, live order management, reporting, and integrations. | [Live](https://ugaburger.com) · [Repository](https://github.com/salih12s/UgaBurger) |
-| **Technical Service & Field Operations Platform** | Customer and device intake, service-status tracking, workshop workflows, field photo records, role-based workspaces, real-time updates, and PDF/Excel output. | [Repository](https://github.com/salih12s/projecrm) |
-| **NOVA ATELIER — E-Commerce Management Platform** | Premium jewelry storefront, customer accounts, role-based administration, catalog and inventory workflows, supplier XML processing, audit rules, and automated tests. | [Repository](https://github.com/salih12s/nova-atelier-commerce) |
-| **AITrader — Stock Analysis & Trading Education Platform** | Market education, order and chart laboratories, technical indicators, risk scenarios, deterministic analysis, and delayed market-data workflows. | [Repository](https://github.com/salih12s/AITrader) |
 
 ## Engineering Focus
 
