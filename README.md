@@ -26,7 +26,9 @@ My work focuses on business operations software, vertical ERP systems, ordering 
 |---|---|---|
 | **Kaynar Motor — Dealership ERP & Digital Showroom** | Service work orders, used-vehicle sales, parts and accessory inventory, profitability, investor profit sharing, debt tracking, reporting, barcode workflows, and a public showroom. | [Live](https://kaynarmotor.com.tr) · [Repository](https://github.com/salih12s/KaynarMotorCRM) |
 | **Demirkan Motorlu Araçlar — Automotive Service & Sales ERP** | Production platform integrating service, motorcycle sales, inventory, customers, expenses, permissions, audit logs, financial reporting, and a public product catalog. | [Live](https://demirkanmotorluaraclar.com) · [Repository](https://github.com/salih12s/MotorServisiCrm) |
-| **UGA Burger — Restaurant Ordering & Operations Platform** | Mobile menu, configurable products, online and table orders, payment and promotion workflows, live order management, reporting, and integrations. | [Live](https://ugaburger.com) · [Repository](https://github.com/salih12s/UgaBurger) |
+| **Saydam Cafe — Café POS & Operations** | Table and check management, real-time kitchen display, split payments, cash shifts, recipe-based inventory, public QR menu, and reporting. | [Repository & product tour](https://github.com/salih12s/KafeAdisyonSistemi) |
+
+<a href="https://github.com/salih12s/KafeAdisyonSistemi"><img src="https://raw.githubusercontent.com/salih12s/KafeAdisyonSistemi/main/docs/screenshots/dashboard.png" alt="Saydam Cafe POS dashboard" width="720" /></a>
 
 ## Engineering Focus
 
