@@ -28,8 +28,6 @@ My work focuses on business operations software, vertical ERP systems, ordering 
 | **Demirkan Motorlu Araçlar — Automotive Service & Sales ERP** | Production platform integrating service, motorcycle sales, inventory, customers, expenses, permissions, audit logs, financial reporting, and a public product catalog. | [Live](https://demirkanmotorluaraclar.com) · [Repository](https://github.com/salih12s/MotorServisiCrm) |
 | **Saydam Cafe — Café POS & Operations** | Table and check management, real-time kitchen display, split payments, cash shifts, recipe-based inventory, public QR menu, and reporting. | [Repository & product tour](https://github.com/salih12s/KafeAdisyonSistemi) |
 
-<a href="https://github.com/salih12s/KafeAdisyonSistemi"><img src="https://raw.githubusercontent.com/salih12s/KafeAdisyonSistemi/main/docs/screenshots/dashboard.png" alt="Saydam Cafe POS dashboard" width="720" /></a>
-
 ## Engineering Focus
 
 - End-to-end product development across frontend, backend, database, testing, and deployment
