@@ -1,12 +1,12 @@
 # Hüseyin Salih Saydam
 
-### Computer Engineer · Full-Stack Developer · AI-Augmented Product Development
+### Bilgisayar Mühendisi · Full-Stack Geliştirici · Yapay Zekâ Destekli Ürün Geliştirme
 
-I build production-oriented full-stack applications that turn real business operations into clear, maintainable digital products.
+Gerçek işletme süreçlerini anlaşılır ve sürdürülebilir dijital ürünlere dönüştüren, canlı kullanıma odaklı full-stack uygulamalar geliştiriyorum.
 
-My work focuses on business operations software, vertical ERP systems, ordering and commerce platforms, REST APIs, relational data modeling, authentication and authorization, reporting, and cloud deployment. I use Codex, Claude, and ChatGPT throughout research, architecture, implementation, debugging, testing, and documentation while retaining ownership of technical decisions and final quality.
+İşletme yönetimi yazılımları, sektöre özel ERP sistemleri, sipariş ve e-ticaret platformları, REST API'ler, ilişkisel veri modelleme, kimlik doğrulama ve yetkilendirme, raporlama ve bulut ortamında yayına alma üzerine çalışıyorum. Araştırma, mimari, geliştirme, hata ayıklama, test ve dokümantasyonda Codex, Claude ve ChatGPT'den yararlanıyor; teknik kararların ve sonucun sorumluluğunu kendim üstleniyorum.
 
-## Core Stack
+## Kullandığım Teknolojiler
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -20,35 +20,35 @@ My work focuses on business operations software, vertical ERP systems, ordering 
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
 </p>
 
-## Selected Work
+## Öne Çıkan Projeler
 
-| Project | Product Scope | Links |
+| Proje | Kapsam | Bağlantılar |
 |---|---|---|
-| **Kaynar Motor — Dealership ERP & Digital Showroom** | Service work orders, used-vehicle sales, parts and accessory inventory, profitability, investor profit sharing, debt tracking, reporting, barcode workflows, and a public showroom. | [Live](https://kaynarmotor.com.tr) · [Repository](https://github.com/salih12s/KaynarMotorCRM) |
-| **Demirkan Motorlu Araçlar — Automotive Service & Sales ERP** | Production platform integrating service, motorcycle sales, inventory, customers, expenses, permissions, audit logs, financial reporting, and a public product catalog. | [Live](https://demirkanmotorluaraclar.com) · [Repository](https://github.com/salih12s/MotorServisiCrm) |
-| **Saydam Cafe — Café POS & Operations** | Table and check management, real-time kitchen display, split payments, cash shifts, recipe-based inventory, public QR menu, and reporting. | [Repository & product tour](https://github.com/salih12s/KafeAdisyonSistemi) |
-| **ARC CAR OTOMOTİV — Automotive Workshop ERP** | Live workshop management platform built from on-site workflow research, connecting service orders, insurance cases, customers, receivables, supplier purchases, inventory, expenses, and reporting. | [Repository & product tour](https://github.com/salih12s/ArcOtomotiv) |
+| **Kaynar Motor — Bayi Yönetimi ERP ve Dijital Vitrin** | Servis iş emirleri, ikinci el araç satışı, parça ve aksesuar stoğu, kârlılık, yatırımcı kâr paylaşımı, borç takibi, raporlama, barkod işlemleri ve halka açık araç vitrini. | [Canlı site](https://kaynarmotor.com.tr) · [Repo](https://github.com/salih12s/KaynarMotorCRM) |
+| **Demirkan Motorlu Araçlar — Servis ve Satış Yönetimi ERP** | Servis, motosiklet satışı, stok, müşteri, gider, yetki, işlem kayıtları, finansal raporlama ve halka açık ürün kataloğunu birleştiren canlı sistem. | [Canlı site](https://demirkanmotorluaraclar.com) · [Repo](https://github.com/salih12s/MotorServisiCrm) |
+| **Saydam Cafe — Kafe POS ve Operasyon Yönetimi** | Masa ve adisyon yönetimi, gerçek zamanlı mutfak ekranı, bölünmüş ödeme, kasa vardiyaları, reçeteye bağlı stok, herkese açık QR menü ve raporlama. | [Repo ve ürün turu](https://github.com/salih12s/KafeAdisyonSistemi) |
+| **ARC CAR OTOMOTİV — Servis ve Atölye Yönetimi ERP** | İşletmede gözlemlenen süreçlerden geliştirilen; iş emri, hasar dosyası, müşteri, cari hesap, tedarikçi alımı, stok, gider ve raporlamayı bağlayan canlı uygulama. | [Repo ve ürün turu](https://github.com/salih12s/ArcOtomotiv) |
 
-## Engineering Focus
+## Mühendislik Odağım
 
-- End-to-end product development across frontend, backend, database, testing, and deployment
-- Business operations modeling for service, sales, inventory, orders, reporting, and role-based workflows
-- REST API design, JWT authentication, authorization, auditability, and relational data modeling
-- Responsive public websites and protected administration panels
-- Real-time interfaces, server-side pagination, PDF/Excel output, and operational reporting
-- AI-assisted engineering with Codex, Claude, and ChatGPT without outsourcing technical ownership
+- Ön yüz, arka uç, veritabanı, test ve yayına alma süreçlerinde uçtan uca ürün geliştirme
+- Servis, satış, stok, sipariş, raporlama ve rol bazlı iş akışlarının modellenmesi
+- REST API tasarımı, JWT ile kimlik doğrulama, yetkilendirme, işlem izlenebilirliği ve ilişkisel veri modelleme
+- Mobil uyumlu halka açık siteler ve yetki korumalı yönetim panelleri
+- Gerçek zamanlı arayüzler, sunucu tarafında sayfalama, PDF/Excel çıktıları ve operasyonel raporlama
+- Teknik kararları ve kalite sorumluluğunu koruyarak Codex, Claude ve ChatGPT ile desteklenen geliştirme
 
-## Experience
+## Deneyim
 
-- **Frontend Developer Intern — CODLEAN**  
-  Contributed to a support portal using React, TypeScript, Redux Toolkit, React Router, and Material UI.
+- **Frontend Geliştirici Stajyeri — CODLEAN**  
+  React, TypeScript, Redux Toolkit, React Router ve Material UI kullanılan bir destek portalına katkıda bulundum.
 
-- **Information Technology Intern — Volta Motor**  
-  Worked with IP camera systems, networking, PoE, NVRs, server rooms, and factory IT operations.
+- **Bilgi İşlem Stajyeri — Volta Motor**  
+  IP kamera sistemleri, ağ altyapısı, PoE, NVR, sunucu odaları ve fabrika bilgi işlem süreçlerinde çalıştım.
 
-## Contact
+## İletişim
 
 - [LinkedIn](https://www.linkedin.com/in/huseyin-salih-saydam/)
 - [GitHub](https://github.com/salih12s)
 
-Open to full-time junior **Full-Stack Developer** and **Software Developer** opportunities, including remote and international teams.
+Türkiye'de tam zamanlı **Full-Stack Geliştirici** ve **Yazılım Geliştirici** pozisyonlarına açığım.
